@@ -1,0 +1,12 @@
+{
+  "router_host": "192.168.1.1",
+  "router_password": "",
+  "interface": "",
+  "ipv6_suffix": "::1001",
+  "ports": ["80", "443"],
+  "interval": 60,
+  "enabled": true,
+  "web_host": "0.0.0.0",
+  "web_port": 6060,
+  "timeout": 15
+}
